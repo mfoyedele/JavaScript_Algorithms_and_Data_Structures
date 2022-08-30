@@ -34,6 +34,7 @@ namespace GuessGame
      {
       Console.Write("You Win!");
      }
+      Console.ReadLine();
     }
   }
 }
