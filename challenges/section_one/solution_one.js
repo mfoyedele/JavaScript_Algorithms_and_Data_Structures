@@ -57,7 +57,7 @@ function areThereDuplicates(...args) {
     return false;
 }
 
-areThereDuplicates(1,2,2,3)
+areThereDuplicates(1,2,2,3,5)
 
 // areThereDuplicates One Liner Solution
 function areThereDuplicates() {
