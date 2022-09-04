@@ -38,7 +38,7 @@ function areThereDuplicates() {
     return false;
 }
 
-areThereDuplicates(1,2,3,2)
+areThereDuplicates(1,2,3,2,4)
 
 // areThereDuplicates Solution (Multiple Pointers)
 function areThereDuplicates(...args) {
